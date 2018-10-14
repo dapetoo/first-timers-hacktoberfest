@@ -582,5 +582,5 @@ Github: https://github.com/bsidio
 Name: Peter Dada  
 Bio: Android Developer and a Digital Marketer Enthusiast  
 Place: Nigeria(Am open to opportunities both remote and full time)
-Github: https://github.com/dapetoo
+Github: https://github.com/dapetoo<br/>
 Twitter: https://www.twitter.com/dapetoo
